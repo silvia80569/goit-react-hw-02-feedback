@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/silvia80569/static/css/main.7acaea2f.css",
-    "main.js": "/silvia80569/static/js/main.bc01310c.js",
+    "main.css": "/silvia80569/static/css/main.b702f423.css",
+    "main.js": "/silvia80569/static/js/main.d3e30aed.js",
     "index.html": "/silvia80569/index.html",
-    "main.7acaea2f.css.map": "/silvia80569/static/css/main.7acaea2f.css.map",
-    "main.bc01310c.js.map": "/silvia80569/static/js/main.bc01310c.js.map"
+    "main.b702f423.css.map": "/silvia80569/static/css/main.b702f423.css.map",
+    "main.d3e30aed.js.map": "/silvia80569/static/js/main.d3e30aed.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.bc01310c.js"
+    "static/css/main.b702f423.css",
+    "static/js/main.d3e30aed.js"
   ]
 }

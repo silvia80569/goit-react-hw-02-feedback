@@ -1,6 +1,7 @@
 .container {
 padding: 20px;
 background-color: #f0f0f0;
+font-size:larger;
 }
 
 .title {
@@ -8,15 +9,3 @@ background-color: #f0f0f0;
   color: #333;
 }
 
-.button {
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  background-color: #007bff;
-  color: white;
-  cursor: pointer;
-}
-
-.button:hover{
-  background-color: #7fafe3;
-}
